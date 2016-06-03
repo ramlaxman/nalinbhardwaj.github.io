@@ -1,9 +1,9 @@
 @font-face {
 	font-family: 'CarrdIcons';
 	src:
-		url('CarrdIconsf8d0.ttf?mgny86') format('truetype'),
-		url('CarrdIconsf8d0.woff?mgny86') format('woff'),
-		url('CarrdIconsf8d0.svg?mgny86#CarrdIcons') format('svg');
+		url('https://nibnalin.tech/fonts/CarrdIconsf8d0.ttf?mgny86') format('truetype'),
+		url('https://nibnalin.tech/fonts/CarrdIconsf8d0.woff?mgny86') format('woff'),
+		url('https://nibnalin.tech/fonts/CarrdIconsf8d0.svg?mgny86#CarrdIcons') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
