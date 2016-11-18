@@ -66,7 +66,7 @@
 							<div class="row">
 								<div class="col-md-8 col-md-offset-2 text-center inner">
 									<h1 class="animated fadeInDown">εμπόριο<span>empório</span></h1>
-									<p class="animated fadeInUp delay-05s">An exclusive event brought to you by <em>CORPORATE CLUB, Delhi Public School, Faridabad</em></p>
+									<div id="changeText123"></div>
 								</div>
 							</div>
 							<div class="row">
@@ -200,5 +200,18 @@
 				<script src="js/scripts.js"></script>
 				<script src="js/jquery.flexslider.js"></script>
 				<script src="js/modernizr.js"></script>
+
+		<script type="text/javascript">
+		var text = ["<p class=\"animated fadeInUp delay-05s\" ><br>Brought to you by <em>CORPORATE CLUB, Delhi Public School, Faridabad</em></p>", "<p class=\"animated fadeInUp delay-05s\"><br>4 events. 100+ participants. 1 fest. <em>17th December, 2016.</em></p>"];
+		var counter = 1;
+		var elem = document.getElementById("changeText123");
+		elem.innerHTML = text[0];
+		function change() {
+		 		elem.innerHTML = text[counter];
+				counter++;
+				if(counter >= text.length) { counter = 0; }
+		}
+		setInterval(change, 5000);
+		</script>
 			</body>
 		</html>
