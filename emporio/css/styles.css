@@ -299,7 +299,7 @@ Contact
 .contact-details h2 span { display: block; color: #3dc9b3; text-transform: uppercase; letter-spacing: 1px; font-size: 14px; margin-top: 15px; }
 .contact-wrap { position: relative; }
 /* ==========================================================================
-Footer
+Footer //NOTE TO SELF: COMPLETE THIS LATER;
 ========================================================================== */
 footer a { color: #a1a9b0; }
 footer { background-color: #242830; padding: 40px 0 30px; }
@@ -316,7 +316,7 @@ FlexSlider Custom CSS
 #servicesSlider { margin-top: 70px; }
 ul.slides li { margin-bottom: 20px; }
 /* ==========================================================================
-Waypoints
+Waypoints 2.0
 ========================================================================== */
 .wp1, .wp2, .wp3, .wp4, .wp5, .wp6 { visibility: hidden; }
 .bounceInLeft, .bounceInRight, .fadeInUp, .fadeInUpDelay, .fadeInDown, .fadeInUpD, .fadeInLeft, .fadeInRight { visibility: visible; }
