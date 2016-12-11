@@ -1,6 +1,5 @@
 <!DOCTYPE HTML>
 <html>
-
 <head>
 	<title>Nalin Bhardwaj</title>
 	<meta charset="utf-8" />
@@ -27,31 +26,9 @@
 	<meta name="msapplication-TileImage" content="tit/ms-icon-144x144.png">
 	<meta name="theme-color" content="#ffffff">
 	<script src="https://use.fontawesome.com/acd71e8590.js"></script>
-		<style>
-		body:before {
-			display: none !important;
-		}
-		
-		#main > .inner > * {
-			opacity: 1.0 !important;
-			-moz-transform: none !important;
-			-webkit-transform: none !important;
-			-ms-transform: none !important;
-			transform: none !important;
-			-moz-transition: none !important;
-			-webkit-transition: none !important;
-			-ms-transition: none !important;
-			transition: none !important;
-			-moz-filter: none !important;
-			-webkit-filter: none !important;
-			-ms-filter: none !important;
-			filter: none !important;
-		}
-		</style>
 	</noscript>
 </head>
-
-<body class="is-loading">
+<body>
 	<div id="wrapper">
 		<div id="main">
 			<div class="inner">
@@ -72,33 +49,5 @@
 			</div>
 		</div>
 	</div>
-	<script>
-	var d = document,
-		b = d.body;
-	onload = function() {
-		setTimeout(function() {
-			b.className = b.className.replace(/\bis-loading\b/, 'is-playing');
-			setTimeout(function() {
-				b.className = b.className.replace(/\bis-playing\b/, 'is-ready')
-			}, 1625);
-		}, 100)
-	};
-	if (navigator.userAgent.match(/(MSIE|rv:11\.0)/)) {
-		(function() {
-			var t, f;
-			f = function() {
-				var x = d.querySelector('#wrapper');
-				if (x.scrollHeight > innerHeight) x.style.height = 'auto';
-				else x.style.height = '100%';
-			};
-			(f)();
-			addEventListener('resize', function() {
-				clearTimeout(t);
-				t = setTimeout(f, 250);
-			});
-		})();
-	}
-	</script>
 </body>
-
 </html>
