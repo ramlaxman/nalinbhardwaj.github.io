@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/nibnalin
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://nibnalin.me
+  * I am nibnalin (https://keybase.io/nibnalin) on keybase.
+  * I have a public key ASBZs3BWPfhMDXm7YcWzMdPpotfiAguqPGq6EVfu-ixDZQo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "012059b370563df84c0d79bb61c5b331d3e9a2d7e2020baa3c6aba1157eefa2c43650a",
+            "host": "keybase.io",
+            "kid": "012059b370563df84c0d79bb61c5b331d3e9a2d7e2020baa3c6aba1157eefa2c43650a",
+            "uid": "458845b08ad32d5c52c2bb0a4f797319",
+            "username": "nibnalin"
+        },
+        "service": {
+            "hostname": "nibnalin.me",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.22"
+    },
+    "ctime": 1495145157,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1495145152,
+        "hash": "c0a81b6c7a883974f8149f4989a90aabc05b4bb4b5edc1cead748bfa179d6dd7d5d4c87d7a72bb10aeeca184e617f74a45b0363fead812c89faee226b44429cd",
+        "seqno": 1094068
+    },
+    "prev": "c36e559cb005f4b40be93f1c83c71fa1ee685eba2f42ad6c886887588585b572",
+    "seqno": 12,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgWbNwVj34TA15u2HFszHT6aLX4gILqjxquhFX7vosQ2UKp3BheWxvYWTFAvR7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNTliMzcwNTYzZGY4NGMwZDc5YmI2MWM1YjMzMWQzZTlhMmQ3ZTIwMjBiYWEzYzZhYmExMTU3ZWVmYTJjNDM2NTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNTliMzcwNTYzZGY4NGMwZDc5YmI2MWM1YjMzMWQzZTlhMmQ3ZTIwMjBiYWEzYzZhYmExMTU3ZWVmYTJjNDM2NTBhIiwidWlkIjoiNDU4ODQ1YjA4YWQzMmQ1YzUyYzJiYjBhNGY3OTczMTkiLCJ1c2VybmFtZSI6Im5pYm5hbGluIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJuaWJuYWxpbi5tZSIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMjIifSwiY3RpbWUiOjE0OTUxNDUxNTcsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ5NTE0NTE1MiwiaGFzaCI6ImMwYTgxYjZjN2E4ODM5NzRmODE0OWY0OTg5YTkwYWFiYzA1YjRiYjRiNWVkYzFjZWFkNzQ4YmZhMTc5ZDZkZDdkNWQ0Yzg3ZDdhNzJiYjEwYWVlY2ExODRlNjE3Zjc0YTQ1YjAzNjNmZWFkODEyYzg5ZmFlZTIyNmI0NDQyOWNkIiwic2Vxbm8iOjEwOTQwNjh9LCJwcmV2IjoiYzM2ZTU1OWNiMDA1ZjRiNDBiZTkzZjFjODNjNzFmYTFlZTY4NWViYTJmNDJhZDZjODg2ODg3NTg4NTg1YjU3MiIsInNlcW5vIjoxMiwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEDGNgaoqqO3RKfsHbJRZ5+/Tb4K3fULM7VcN/h8Ybr4GbY4KgLTC7tM+KnS4nD/G7niQaa1g1sQXeeKNMD5fZoEqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQg49MQyHK4CwL1/zlX15cnFyRlUJMh5Y4rOCyJJPBSmnejdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/nibnalin
+
+==================================================================
